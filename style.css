@@ -1,0 +1,45 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0%;
+  background-color: rgb(212, 239, 212);
+  }
+  
+  #navbar{
+      background-color: aquamarine;
+      padding: 10px 10px 10px 0px;
+      position: sticky;
+      top: 0px;
+  }
+  h1{
+    text-align: center;
+    padding-left:15px;
+  }
+  .menu{
+      padding: 10px;
+      font-size: x-large;
+  }
+  .menu-item{
+      text-decoration: none;
+  }
+  
+  .menu:hover{
+      background-color: black;
+      color: white;
+      cursor: pointer;
+  }
+  .image{
+      text-align:center;
+       display:block;
+       padding: 0px 0px 20px 0px;
+       height: 400px;
+  
+  }
+  p{
+      margin: 10px;
+      font-size: 30px;
+  }
+  
+  
